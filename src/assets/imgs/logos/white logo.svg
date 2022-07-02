@@ -1,0 +1,30 @@
+<svg id="Grupo_6214" data-name="Grupo 6214" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="216.42" height="57" viewBox="0 0 216.42 57">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_377" data-name="Retângulo 377" width="216.42" height="57" fill="#fff"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Retângulo_376" data-name="Retângulo 376" width="216.419" height="57" fill="#fff"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Retângulo_375" data-name="Retângulo 375" width="17.23" height="7.45" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_6213" data-name="Grupo 6213" clip-path="url(#clip-path)">
+    <g id="Grupo_6212" data-name="Grupo 6212">
+      <g id="Grupo_6211" data-name="Grupo 6211" clip-path="url(#clip-path-2)">
+        <path id="Caminho_700" data-name="Caminho 700" d="M26,0H0V7.45H26a6.829,6.829,0,0,1,0,13.658H10.589l7.45,7.45H26A14.279,14.279,0,0,0,26,0" fill="#fff"/>
+        <g id="Grupo_6210" data-name="Grupo 6210" style="mix-blend-mode: multiply;isolation: isolate">
+          <g id="Grupo_6209" data-name="Grupo 6209">
+            <g id="Grupo_6208" data-name="Grupo 6208" clip-path="url(#clip-path-3)">
+              <path id="Caminho_701" data-name="Caminho 701" d="M.018,0,17.23,7.45H0Z" transform="translate(0)" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+        <path id="Caminho_702" data-name="Caminho 702" d="M40.453,40.436H29.916L0,10.519V0H.017L28.376,28.36Z" transform="translate(0 0)" fill="#fff"/>
+        <path id="Caminho_703" data-name="Caminho 703" d="M19.38,137.236H8.843L0,128.393V117.856Z" transform="translate(0 -96.8)" fill="#fff"/>
+        <text id="edCompany" transform="translate(41.022 39.672)" fill="#fff" font-size="27" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">edCompany</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
