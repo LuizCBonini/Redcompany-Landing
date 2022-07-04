@@ -12,12 +12,16 @@ module.exports = {
       'red': '#BB0723',
       'bordo': '#750723',
       'white': '#FFFFFF',
+      'title': '#444444',
     },
     maxWidth: {
       'home-title': '25.5rem',
     },
     margin: {
       'home-title': '11.5%',
+    },
+    backgroundImage: {
+      'capa': "url('/src/assets/imgs/photos/capa.png')",
     },
   },
   plugins: [],
