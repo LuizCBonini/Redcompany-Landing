@@ -14,6 +14,7 @@ module.exports = {
         'white': '#FFFFFF',
         'title': '#444444',
         'text': '#363636',
+        'green': '#4BA883',
       },
       maxWidth: {
         'home-title': '10em',
@@ -21,6 +22,9 @@ module.exports = {
       },
       margin: {
         'home-title': '11.5%',
+      },
+      boxShadow: {
+        'orçamento-shadow': '0px 3px 6px #00000045;'
       },
     },
     },
