@@ -15,10 +15,13 @@ module.exports = {
         'title': '#444444',
         'text': '#363636',
         'green': '#4BA883',
+        'amarelo': '#E8A91C',
+        'grey-lighter': '#E5E5E4'
       },
       maxWidth: {
         'home-title': '10em',
         'why-content': '58em',
+        'about-content': '10em',
       },
       margin: {
         'home-title': '11.5%',

@@ -1,11 +1,12 @@
 
 // paginas:
 import Home from './containers/Home';
-import PorqueContratar from './containers/WhyHyre';
+import PorqueContratar from './containers/WhyHire';
 import Implantação from './containers/Implantação';
 import Orçamento from './containers/Orçamento';
 import Carrossel from './containers/Carrossel';
 import Consultor from './containers/Consultor';
+import About from './containers/About';
 
 export default function App() {
   return (
@@ -16,6 +17,7 @@ export default function App() {
       <Orçamento/>
       <Carrossel/>
       <Consultor/>
+      <About/>
     </>
   )
 }

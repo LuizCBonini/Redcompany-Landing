@@ -17,13 +17,13 @@ const Carrossel = () => {
             <div className='mx-auto max-w-md flex justify-between mt-24'>
                 <div className='flex flex-col items-center '>
                     <img src={house} alt="Ícone de uma casa vermelha" className='w-12'/>
-                    <p className='text-text font-poppins font-bold'>+100 lojas</p>
+                    <p className='text-text font-poppins font-bold mt-4'>+100 lojas</p>
                     <p className='text-text font-poppins'>implantadas</p>
                 </div>
 
                 <div className='flex flex-col items-center '>
                     <img src={house} alt="Ícone de uma casa vermelha" className='w-12'/>
-                    <p className='text-text font-poppins font-bold'>+250 lojas</p>
+                    <p className='text-text font-poppins font-bold mt-4'>+250 lojas</p>
                     <p className='text-text font-poppins'>em implantação</p>
                 </div>
             </div>
