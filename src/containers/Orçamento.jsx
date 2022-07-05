@@ -15,7 +15,7 @@ const Orçamento = () => {
                     <p className='text-text font-poppins text-lg font-bold max-w-sm'>Com <span className='text-bordo'>personalização, padronização</span> e <span className='text-bordo'>móveis exclusivos</span> com design italiano, <span className='text-bordo'>desenvolvemos, planejamos e executamos</span> o projeto da sua loja física.</p>
                 </div>
 
-                <div className='w-[527px] h-[717px] shadow-lg shadow-orçamento-shadow rounded-2xl mt-20 ml-24 p-10 '>
+                <div className='w-[527px] h-[717px] shadow-orçamento-shadow rounded-2xl mt-20 ml-24 p-10 '>
                     <h1 className='text-text font-poppins font-bold text-4xl text-center pb-10'>Solicite um orçamento para sua empresa.</h1>
 
                     
