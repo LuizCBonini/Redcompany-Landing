@@ -10,11 +10,11 @@ import Button from '../components/button';
 
 const Home = () => {
     return ( 
-        <div className=''>
+        <section className=''>
             <header className='absolute flex w-full items-center justify-around pt-10'>
                 <a href="/"><img src={logo} alt="Logo em branco da Redcompany" /></a>
 
-                <ul className="flex text-xl text-white font-poppins font-semibold">
+                <ul className="flex text-xl text-white font-poppins font-normal">
                     <li>
                         <a href="/" className='pr-2 '><span className='hover:border-b-2 border-red'>Depoimentos</span></a>
                     </li>
@@ -44,7 +44,7 @@ const Home = () => {
 
                 <img src={ondas} alt="Ondas amarelas" className='relative bottom-8 left-8 float-right'/>
             </div>
-        </div>
+        </section>
      );
 }
  

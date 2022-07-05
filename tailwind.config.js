@@ -6,7 +6,9 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        'poppins':['Poppins', 'sans-serif']
+        'poppins':['Poppins', 'sans-serif'],
+        'gothamLight':['GothamLight'],
+        'gothamBold':['GothamBold'],
       },
       colors: {
         'red': '#BB0723',

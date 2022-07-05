@@ -7,6 +7,7 @@ import Orçamento from './containers/Orçamento';
 import Carrossel from './containers/Carrossel';
 import Consultor from './containers/Consultor';
 import About from './containers/About';
+import Footer from './containers/Footer';
 
 export default function App() {
   return (
@@ -18,6 +19,7 @@ export default function App() {
       <Carrossel/>
       <Consultor/>
       <About/>
+      <Footer/>
     </>
   )
 }

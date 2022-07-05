@@ -1,3 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;800&display=swap');
+
 @tailwind base;
 @tailwind components;
+@font-face {
+    font-family: "GothamLight";
+    src: url("./assets/fonts/GothamLight.ttf") format("truetype");
+}
+@font-face {
+    font-family: "GothamBold";
+    src: url("./assets/fonts/GothamBold.ttf") format("truetype");
+}
 @tailwind utilities;
