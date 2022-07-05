@@ -12,9 +12,9 @@ const Home = () => {
     return ( 
         <div className=''>
             <header className='absolute flex w-full items-center justify-around pt-10'>
-                <a href="/"><img src={logo} alt="" /></a>
+                <a href="/"><img src={logo} alt="Logo em branco da Redcompany" /></a>
 
-                <ul className="flex text-xl text-white font-title font-semibold">
+                <ul className="flex text-xl text-white font-poppins font-semibold">
                     <li>
                         <a href="/" className='pr-2 '><span className='hover:border-b-2 border-red'>Depoimentos</span></a>
                     </li>
@@ -28,21 +28,21 @@ const Home = () => {
                     </li>
 
                     <li>
-                        <a href="/" className='pl-2 pr-2 border-l-2 '><span className='hover:border-b-2 border-red'>sobre nós</span></a>
+                        <a href="/" className='pl-2 pr-2 border-l-2 '><span className='hover:border-b-2 border-red'>Sobre nós</span></a>
                     </li>
                 </ul>
             </header>
 
             <div className='overflow-hidden'>
-                <img src={capa} alt="" className='w-auto'/>
+                <img src={capa} alt="Foto de duas mulheres e um homem de braços cruzados sorrindo" className='w-auto'/>
 
-                <h1 className='font-title font-bold text-white absolute text-5xl ml-home-title max-w-home-title bottom-5'>Implantação de Lojas com quem mais entende de franquias</h1>
+                <h1 className='font-poppins font-bold text-white absolute text-5xl ml-home-title max-w-home-title bottom-5'>Implantação de Lojas com quem mais entende de franquias</h1>
 
                 <div className='absolute ml-home-title -bottom-16'>
                     <Button>Baixar Apresentação</Button>
                 </div>
 
-                <img src={ondas} alt="" className='relative bottom-8 left-8 float-right'/>
+                <img src={ondas} alt="Ondas amarelas" className='relative bottom-8 left-8 float-right'/>
             </div>
         </div>
      );

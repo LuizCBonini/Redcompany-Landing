@@ -4,25 +4,26 @@ module.exports = {
     "./src/**/*.{js,jsx,ts,tsx}",
   ],
   theme: {
-    extend: {},
-    fontFamily: {
-      'title':['Poppins', 'sans-serif']
+    extend: {
+      fontFamily: {
+        'poppins':['Poppins', 'sans-serif']
+      },
+      colors: {
+        'red': '#BB0723',
+        'bordo': '#750723',
+        'white': '#FFFFFF',
+        'title': '#444444',
+        'text': '#363636',
+      },
+      maxWidth: {
+        'home-title': '10em',
+        'why-content': '58em',
+      },
+      margin: {
+        'home-title': '11.5%',
+      },
     },
-    colors: {
-      'red': '#BB0723',
-      'bordo': '#750723',
-      'white': '#FFFFFF',
-      'title': '#444444',
     },
-    maxWidth: {
-      'home-title': '25.5rem',
-    },
-    margin: {
-      'home-title': '11.5%',
-    },
-    backgroundImage: {
-      'capa': "url('/src/assets/imgs/photos/capa.png')",
-    },
-  },
+
   plugins: [],
 }
