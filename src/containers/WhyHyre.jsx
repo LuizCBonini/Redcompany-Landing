@@ -1,7 +1,7 @@
 import React from 'react';
 import Button from '../components/button';
 
-// images:
+// svgs:
 import cone from '../assets/imgs/svgs/Grupo 4.svg'
 import checked from '../assets/imgs/icons/verificar.svg'
 import R from '../assets/imgs/logos/R.png'
