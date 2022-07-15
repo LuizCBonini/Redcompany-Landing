@@ -1,70 +1,75 @@
-# Getting Started with Create React App
+<h1 align="center">
+    <a href="https://redcompany.netlify.app/">🔗 Redcompany</a>
+</h1> 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">🚀Teste realizado para a vaga de Front-end, dentre os desafios estava a criação de um site a partir de um modelo no Adobe XD, torna-lo responsivo, a criação de um menu mobile e um carrossel de imagens.</p>
 
-## Available Scripts
+> Tive uma preocupação especial com acessibilidade e SEO.
 
-In the project directory, you can run:
+![Lighthouse](https://github.com/LuizCBonini/Redcompany-Landing/blob/master/src/assets/imgs/github/lighthouse.png)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### ✅ Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- [x] Menu Mobile
+- [x] Carrossel de imagens
+- [x] Responsivo
 
-### `npm test`
+### ✅ Demonstração da aplicação
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Netlify: [dacxi-teste-cryptocurrencies.netlify.app](https://dacxi-teste-cryptocurrencies.netlify.app/)
 
-### `npm run build`
+#### 🏠 Página Home
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Início](https://github.com/LuizCBonini/Redcompany-Landing/blob/master/src/assets/imgs/github/Home.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+#### 📋 Formulário 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Pesquisa](https://github.com/LuizCBonini/Redcompany-Landing/blob/master/src/assets/imgs/github/Form.png)
 
-### `npm run eject`
+#### 📸 Fotos
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![Fotos](https://github.com/LuizCBonini/Redcompany-Landing/blob/master/src/assets/imgs/github/Car.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### 📱 Mobile 
+![Mobile1](https://github.com/LuizCBonini/Redcompany-Landing/blob/master/src/assets/imgs/github/HomeMobile.png)
+![Mobile2](https://github.com/LuizCBonini/Redcompany-Landing/blob/master/src/assets/imgs/github/MenuMobile.png)
+![Mobile3](https://github.com/LuizCBonini/Redcompany-Landing/blob/master/src/assets/imgs/github/CarMobile.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### ✅ Pré-requisitos e como rodar a aplicação
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [React.js](https://reactjs.org/), [Npm](https://docs.npmjs.com/cli/v6/commands/npm-install). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### 🎲 Rodando o Frontend(React.js)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+# Clone este repositório
+$ git clone <git@github.com:LuizCBonini/Redcompany-Landing>
+# Acesse a pasta do projeto no terminal
+$ cd redcompany-landing
+# Instale as dependências
+$ npm install
+# Execute a aplicação em serve
+$ npm start
+# O servidor inciará na porta: 3000 - acesse <http://localhost:3000>
+```
 
-### Code Splitting
+### 🛠 Tecnologias
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+As seguintes ferramentas foram usadas na construção do projeto:
 
-### Analyzing the Bundle Size
+- [React.js](https://reactjs.org/)
+- [Tailwind](https://tailwindcss.com/docs/preflight)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+### ✅ Autor
+<img style="border-radius: 50%;" src="https://github.com/LuizCBonini.png" width="100px;" alt=""/>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Feito por Luiz Carlos Bonini, entre em contato!
+<div>
+  <p>lc.bonini13@gmail.com</p>
+    <a href="https://www.linkedin.com/in/dev-luiz-carlos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>
