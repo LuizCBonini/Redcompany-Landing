@@ -7,8 +7,8 @@ module.exports = {
     extend: {
       fontFamily: {
         'poppins':['Poppins', 'sans-serif'],
-        'gothamLight':['GothamLight'],
-        'gothamBold':['GothamBold'],
+        'gothamLight':['GothamLight', 'sans-serif'],
+        'gothamBold':['GothamBold', 'sans-serif'],
       },
       colors: {
         'red': '#BB0723',
@@ -31,6 +31,12 @@ module.exports = {
       boxShadow: {
         'orçamento-shadow': '0px 3px 6px #00000045;'
       },
+      screens: {
+        'laptopG': '1200px',
+        'laptop': '770px',
+        'mobileG': '430px',
+        'mobileM': '380px'
+      }
     },
     },
 

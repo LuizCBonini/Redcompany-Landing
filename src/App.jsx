@@ -4,7 +4,7 @@ import Home from './containers/Home';
 import PorqueContratar from './containers/WhyHire';
 import Implantação from './containers/Implantação';
 import Orçamento from './containers/Orçamento';
-import Carrossel from './containers/Carrossel';
+import Carrossel from './containers/imagensImplantação';
 import Consultor from './containers/Consultor';
 import About from './containers/About';
 import Footer from './containers/Footer';

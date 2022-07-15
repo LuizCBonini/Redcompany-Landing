@@ -1,3 +1,4 @@
+/* Importando a font Poppins e seus pesos */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;800&display=swap');
 
 @tailwind base;
@@ -11,3 +12,12 @@
     src: url("./assets/fonts/GothamBold.ttf") format("truetype");
 }
 @tailwind utilities;
+
+@layer components {
+    .btn-primary {
+        @apply bg-red text-white border-bordo border font-poppins text-xs sm:text-xl font-bold py-2 px-6 rounded-md hover:bg-bordo;
+    };
+    .btn-secondary {
+        @apply bg-bordo text-white border-white border font-poppins text-xs sm:text-xl font-bold py-2 px-6 rounded-md hover:bg-red;
+    }
+}
