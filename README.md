@@ -17,7 +17,7 @@
 
 ### ✅ Demonstração da aplicação
 
-Netlify: [dacxi-teste-cryptocurrencies.netlify.app](https://dacxi-teste-cryptocurrencies.netlify.app/)
+Netlify: [redcompany.netlify.app](https://redcompany.netlify.app/)
 
 #### 🏠 Página Home
 
